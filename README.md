@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 17, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Rachel Stein)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we completed the recipe display application, then did it again with more settings.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://rjs16.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Jquery allows developers to use JavaScript task, containing library to the HTML document.ALL jQuary statements must start with $, so that it knows its jQuary.  )
+2. (jQuary has built-in effects that include visual animations. all accuring in a specific time frame, supporting slow or fast keywords.)
+3. (Event Headers, group jQuary statements into functions. specifies things to be associated with specific events like blur, click, hover, etc. Performing what is said.)
 
